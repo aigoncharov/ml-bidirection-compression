@@ -29,7 +29,7 @@ To run the experiments, follow these steps:
 
 3. **Run the Comparison**:
    - Add a new cell in the notebook.
-   - Insert your comparison notebook code.
+   - Insert your comparison notebook code[https://github.com/aigoncharov/ml-bidirection-compression/blob/main/comparison.ipynb].
    - Execute the cell to see results.
 
 ## Results
