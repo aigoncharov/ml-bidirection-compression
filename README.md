@@ -34,7 +34,7 @@ To run the experiments, follow these steps:
 
 ## Results
 ![DIANA Method Plot](https://github.com/aigoncharov/ml-bidirection-compression/blob/main/plots/diana.PNG)
-![https://github.com/aigoncharov/ml-bidirection-compression/blob/main/plots/DC%2Bdiana.png]
+![both method](https://github.com/aigoncharov/ml-bidirection-compression/blob/main/plots/DC%2Bdiana.png)
 ## References
 
 For further reading and detailed methodology, refer to the following paper:
