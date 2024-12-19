@@ -33,7 +33,7 @@ To run the experiments, follow these steps:
    - Execute the cell to see results.
 
 ## Results
-
+![DIANA Method Plot](https://github.com/aigoncharov/ml-bidirection-compression/blob/main/plots/diana.PNG)
 
 
 ## References
